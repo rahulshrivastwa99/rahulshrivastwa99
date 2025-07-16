@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Explorer | Code. Learn. Build
 ----------------------------------------------
 
-I’m a 3rd-year B.Tech CSE student at BPIT, passionate about building clean and responsive web applications. Skilled in React.js, Next.js, Node.js, Express, MongoDB, SQL, and Socket.io, with a strong grasp of the MERN stack. Proficient in Python and DSA, with a growing interest in cloud computing. I focus on writing clean, efficient code and continuously learning to stay updated with modern development practices.
+I’m a 3rd-year B.Tech CSE student at BPIT, passionate about building clean and responsive web applications. Skilled in <span style="color:#e34c26"><strong>React.js</strong></span>, <span style="color:#0070f3"><strong>Next.js</strong></span>, <span style="color:#68a063"><strong>Node.js</strong></span>, <span style="color:#000000"><strong>Express</strong></span>, <span style="color:#47A248"><strong>MongoDB</strong></span>, and SQL, with a strong grasp of the MERN stack.
+
+<span style="color:#3572A5"><strong>Proficient in Python</strong></span> and DSA, with a growing interest in cloud computing. Currently exploring <span style="color:#4285F4"><strong>Google Cloud Platform (GCP)</strong></span> and tools like <span style="color:#FF6F00"><strong>Firebase</strong></span>, <span style="color:#00ADD8"><strong>Docker</strong></span>, and <span style="color:#2496ED"><strong>Kubernetes</strong></span>.
+
+I focus on writing clean, efficient code and continuously learning to stay updated with modern development practices.
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
