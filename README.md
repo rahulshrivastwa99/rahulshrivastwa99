@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Computer Science Explorer | Code. Learn. Build
-----------------------------------------------
+-----------------------------------------------
 
 I’m a 3rd-year B.Tech CSE student at BPIT, passionate about building clean and responsive web applications. Skilled in <span style="color:#e34c26"><strong>React.js</strong></span>, <span style="color:#0070f3"><strong>Next.js</strong></span>, <span style="color:#68a063"><strong>Node.js</strong></span>, <span style="color:#000000"><strong>Express</strong></span>, <span style="color:#47A248"><strong>MongoDB</strong></span>, and SQL, with a strong grasp of the MERN stack.
 
