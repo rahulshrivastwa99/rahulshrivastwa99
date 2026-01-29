@@ -13,7 +13,7 @@ I focus on writing clean, efficient code and continuously learning to stay updat
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
-* 🧠  learning MERN STACK, understanding of Python, OpenCV...
+* 🧠  learning MERN STACK, understanding of Python, OpenCV.
 * 🤝  I'm open to collaborating on Full-Stack projects.
 
 
