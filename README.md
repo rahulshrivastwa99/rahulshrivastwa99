@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Shrivastwa</h1>
-<h3 align="center">Full Stack Developer | MERN + DevOps | AI/ML | LLM & RAG Explorer 🚀</h3>
+<h3 align="center">Full Stack Developer | MERN + DevOps | LLM & RAG Explorer 🚀</h3>
 
 ---
 
