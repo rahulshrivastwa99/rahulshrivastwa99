@@ -8,17 +8,19 @@ Building practical software products with a strong focus on backend systems, aut
   <em>🚀 Building the future of intelligent hiring at <strong><a href="https://quickruit.in">QuickRuit AI</a></strong></em>
 </p>
 I am the driving force behind QuickRuit AI, a startup utilizing AI to revolutionize and streamline the recruitment process.
+
 ---
 
 ## 🚀 About Me
 
-* 🌍 **Location:** India
-* ✉️ **Contact:** [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
+- 🌍 **Location:** India
+- ✉️ **Contact:** [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
 - Working across MERN stack, FastAPI, PostgreSQL, and backend systems
 - Exploring DevOps concepts including Docker, CI/CD workflows, and deployment practices
 - Strengthening fundamentals in Java, DSA, DBMS, OOPs, and Operating Systems
 - Interested in backend engineering, APIs, automation workflows, and production systems
-* 🤝 **Collaboration:** Always open to collaborating on Full-Stack, AI, and Open-Source projects!
+- 🤝 **Collaboration:** Always open to collaborating on Full-Stack, AI, and Open-Source projects!
+
 ---
 
 ## 🛠️ Tech Stack
