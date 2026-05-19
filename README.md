@@ -4,18 +4,22 @@
 
 Building practical software products with a strong focus on backend systems, automation workflows, and real-world problem solving.
 
-Currently building **QuickRuit AI** — an AI-powered hiring automation platform designed to streamline candidate screening and first-round hiring workflows.
+<p align="left">
+  <em>🚀 Building the future of intelligent hiring at <strong><a href="https://quickruit.in">QuickRuit AI</a></strong></em>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- Building AI-powered and scalable web applications
+* 🚀 **Currently Building:** I am the driving force behind **[QuickRuit AI](https://quickruit.in)**, a startup utilizing AI to revolutionize and streamline the recruitment process.
+* 🌍 **Location:** India
+* ✉️ **Contact:** [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
 - Working across MERN stack, FastAPI, PostgreSQL, and backend systems
 - Exploring DevOps concepts including Docker, CI/CD workflows, and deployment practices
 - Strengthening fundamentals in Java, DSA, DBMS, OOPs, and Operating Systems
 - Interested in backend engineering, APIs, automation workflows, and production systems
-
+* 🤝 **Collaboration:** Always open to collaborating on Full-Stack, AI, and Open-Source projects!
 ---
 
 ## 🛠️ Tech Stack
@@ -48,6 +52,10 @@ Currently building **QuickRuit AI** — an AI-powered hiring automation platform
 
 ## 🌟 Featured Project — QuickRuit AI
 
+<a href="https://quickruit.in">
+  <img src="https://img.shields.io/badge/Visit-QuickRuit_AI-0891b2?style=for-the-badge" alt="QuickRuit AI"/>
+</a>
+
 QuickRuit AI is an AI-powered first-round hiring automation platform focused on reducing manual candidate screening through intelligent workflows, automated assessments, and scalable backend systems.
 
 ### Key Highlights
@@ -61,9 +69,13 @@ QuickRuit AI is an AI-powered first-round hiring automation platform focused on 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulshrivastwa99&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshrivastwa99&theme=github-dark&hide_border=true" height="170"/>
+<p align="left">
+  <a href="http://www.github.com/rahulshrivastwa99">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahulshrivastwa99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="rahulshrivastwa99's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/rahulshrivastwa99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshrivastwa99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
