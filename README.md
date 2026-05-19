@@ -7,12 +7,11 @@ Building practical software products with a strong focus on backend systems, aut
 <p align="left">
   <em>🚀 Building the future of intelligent hiring at <strong><a href="https://quickruit.in">QuickRuit AI</a></strong></em>
 </p>
-
+I am the driving force behind QuickRuit AI, a startup utilizing AI to revolutionize and streamline the recruitment process.
 ---
 
 ## 🚀 About Me
 
-* 🚀 **Currently Building:** I am the driving force behind **[QuickRuit AI](https://quickruit.in)**, a startup utilizing AI to revolutionize and streamline the recruitment process.
 * 🌍 **Location:** India
 * ✉️ **Contact:** [rahulshrivastwa1@gmail.com](mailto:rahulshrivastwa1@gmail.com)
 - Working across MERN stack, FastAPI, PostgreSQL, and backend systems
